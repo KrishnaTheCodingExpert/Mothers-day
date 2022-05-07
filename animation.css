@@ -1,0 +1,23 @@
+body
+{
+    
+background: linear-gradient(#87CEEB, #90EE90);
+    color: #fff;
+}
+
+.hmd
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 130px;
+    font-weight: 800;
+    font-family: algerian;
+    text-align: center;
+    background-image: url('https://c.tenor.com/cvZ7y0wIs0YAAAAC/stars-twinkle.gif');
+    color:transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  
+}
